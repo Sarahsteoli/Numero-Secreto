@@ -8,12 +8,23 @@
 <p align=>
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 
+https://github.com/user-attachments/assets/54e61cd7-b6e2-4767-8b9e-d920e4236f7b
+
 * [Acesso ao Projeto](#acesso-ao-projeto)
-A [link](http://Users/Usu%C3%A1rio/Documents/Numero%20secreto/index.html)
+  
+Link para acesso - file:///C:/Users/Usu%C3%A1rio/Documents/Numero%20secreto/index.html
+
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+
+*. JavaScript*
+
+*. CSS*
+
+*. HTTML*
+
+# Autores
+
+[<img loading="lazy" src="https://github.com/user-attachments/assets/81f89c1b-34bd-4c75-85d4-7d07386a0eba" width=115><br><sub>Sarah Stephanie</sub>](https://github.com/Sarahsteoli)   |
