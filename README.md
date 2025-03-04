@@ -23,7 +23,7 @@ Link para acesso - file:///C:/Users/Usu%C3%A1rio/Documents/Numero%20secreto/inde
 
 *. CSS*
 
-*. HTTML*
+*. HTML*
 
 # Autores
 
