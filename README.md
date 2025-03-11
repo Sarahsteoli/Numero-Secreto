@@ -6,7 +6,7 @@
   Este é um projeto que o intuito dele é observar e descobrir o número mágico de acordo com a sua intuição. 
 * [Status do Projeto](#status-do-Projeto)
 <p align=>
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge"/>
 </p>
 
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
