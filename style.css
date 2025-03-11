@@ -6,26 +6,38 @@
 }
 
 body {
-    background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
+    background: linear-gradient(#0a192c 0%, #113564 33.33%, #153f74 66.67%, #215d91 100%);
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-
 body::before {
-    background-image: url("img/code.png");
+    background-image: url("img/boladecristal.webp");
     background-repeat: no-repeat;
     background-position: right;
     content: "";
     display: block;
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     opacity: 0.4;
 }
 
+.container__imagem-pessoa {
+    width: 90%;  /*Ajuste o valor conforme necessário*/
+    height: auto; /*Mantém a proporção original da imagem*/
+    max-width: 420px; /*Limita o tamanho máximo da imagem*/
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 768px) {
+    .container__imagem-pessoa {
+        width: 50%;  /* Ajuste conforme necessário */
+        max-width: 200px;  /* Limita o tamanho da imagem para telas menores*/
+    }
+}
 .container {
     width: 80%;
     height: 80%;
@@ -33,13 +45,12 @@ body::before {
     align-items: center;
     justify-content: space-between;
     border-radius: 24px;
-    border: 1px solid #1875E8;
+    border: 1px solid #163964;
     box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);
     background-image: url("img/Ruido.png");
     background-size: 100% 100%;
     position: relative;
 }
-
 
 .container__conteudo {
     display: flex;
@@ -55,7 +66,7 @@ body::before {
 
 .container__botao {
     border-radius: 16px;
-    background: #1875E8;
+    background: #73adf3;
     padding: 16px 24px;
     width: 100%;
     font-size: 24px;
@@ -69,7 +80,7 @@ body::before {
 }
 
 .container__texto-azul {
-    color: #1875E8;
+    color: #173f70;
 }
 
 .container__input {
@@ -78,7 +89,7 @@ body::before {
     border-radius: 16px;
     background-color: #FFF;
     border: none;
-    color: #1875E8;
+    color: #176bd3;
     padding: 2rem;
     font-size: 24px;
     font-weight: 700;
