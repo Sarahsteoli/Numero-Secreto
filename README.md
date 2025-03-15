@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/54e61cd7-b6e2-4767-8b9e-d920e4236f7b
 
 * [Acesso ao Projeto](#acesso-ao-projeto)
   
-Link para acesso - file:///C:/Users/Usu%C3%A1rio/Documents/Numero%20secreto/index.html
+**Acesse o jogo aqui:** [Número Secreto](https://sarahsteoli.github.io/Numero-Secreto/)
 
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 
